@@ -39,4 +39,5 @@ This project is a computer vision-based Sudoku solver that detects a Sudoku puzz
 This will process the image, solve the Sudoku, and display the solution along with intermediate steps.
 
 **Output Image:**
-<img src="resources/Output_image.png" width="300" />
+
+<img src="resources/Output_image.png" />
