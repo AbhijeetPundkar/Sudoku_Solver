@@ -19,7 +19,7 @@ This project is a computer vision-based Sudoku solver that detects a Sudoku puzz
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/sudoku-solver-cv.git
+   git clone https://github.com/chithindocha/Sudoku_Solver.git
    cd sudoku-solver-cv
    ```
 
