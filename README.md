@@ -2,6 +2,13 @@
 
 This project is a computer vision-based Sudoku solver that detects a Sudoku puzzle from an image, recognizes the digits, solves the puzzle, and overlays the solution back onto the original image. It uses OpenCV for image processing, pytesseract for optical character recognition (OCR), and a backtracking algorithm to solve the Sudoku.
 
+### Libraries
+1. numpy
+2. scikit-learn
+3. tensorflow
+4. opencv-python
+5. pytesseract
+
 ## Installation Guide
 
 ### Prerequisites
